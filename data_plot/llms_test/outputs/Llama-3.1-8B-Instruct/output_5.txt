@@ -1,0 +1,99 @@
+ 
+
+### Chain of Thought Reasoning
+The player has a high win rate (0.8333333333333334) and is on a winning streak (3 matches). This suggests that they are currently skilled and can handle a more challenging opponent. However, the player's feedback indicates that the last match was too simple, suggesting that they may want a more balanced match. Considering the player's recent performance and feedback, I will choose an opponent that is slightly more challenging than the last one but not overwhelmingly difficult.
+
+The player has not faced the "defensive_type" agent before, and the suggested characters for this type include "Vega", "Ryu", "Ken", and "Dhalsim". This type of agent is likely to provide a balanced match, as they are defensive but can still attack. I will choose this type of agent.
+
+Within the "defensive_type" agent, I will select a model with a moderate difficulty score. The model with a difficulty score of "8/10-(Hard)" seems suitable, as it is challenging but not too difficult.
+
+### JSON Output
+```json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```  ### Chain of Thought Reasoning
+The player has a high win rate (0.8333333333333334) and is on a winning streak (3 matches). This suggests that they are currently skilled and can handle a more challenging opponent. However, the player's feedback indicates that the last match was too simple, suggesting that they may want a more balanced match. Considering the player's recent performance and feedback, I will choose an opponent that is slightly more challenging than the last one but not overwhelmingly difficult.
+
+The player has not faced the "defensive_type" agent before, and the suggested characters for this type include "Vega", "Ryu", "Ken", and "Dhalsim". This type of agent is likely to provide a balanced match, as they are defensive but can still attack. I will choose this type of agent.
+
+Within the "defensive_type" agent, I will select a model with a moderate difficulty score. The model with a difficulty score of "8/10-(Hard)" seems suitable, as it is challenging but not too difficult.
+
+### JSON Output
+```json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```  ### Chain of Thought Reasoning
+The player has a high win rate (0.8333333333333334) and is on a winning streak (3 matches). This suggests that they are currently skilled and can handle a more challenging opponent. However, the player's feedback indicates that the last match was too simple, suggesting that they may want a more balanced match. Considering the player's recent performance and feedback, I will choose an opponent that is slightly more challenging than the last one but not overwhelmingly difficult.
+
+The player has not faced the "defensive_type" agent before, and the suggested characters for this type include "Vega", "Ryu", "Ken", and "Dhalsim". This type of agent is likely to provide a balanced match, as they are defensive but can still attack. I will choose this type of agent.
+
+Within the "defensive_type" agent, I will select a model with a moderate difficulty score. The model with a difficulty score of "8/10-(Hard)" seems suitable, as it is challenging but not too difficult.
+
+### JSON Output
+```json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```  ### Chain of Thought Reasoning
+The player has a high win rate (0.8333333333333334) and is on a winning streak (3 matches). This suggests that they are currently skilled and can handle a more challenging opponent. However, the player's feedback indicates that the last match was too simple, suggesting that they may want a more balanced match. Considering the player's recent performance and feedback, I will choose an opponent that is slightly more challenging than the last one but not overwhelmingly difficult.
+
+The player has not faced the "defensive_type" agent before, and the suggested characters for this type include "Vega", "Ryu", "Ken", and "Dhalsim". This type of agent is likely to provide a balanced match, as they are defensive but can still attack. I will choose this type of agent.
+
+Within the "defensive_type" agent, I will select a model with a moderate difficulty score. The model with a difficulty score of "8/10-(Hard)" seems suitable, as it is challenging but not too difficult.
+
+### JSON Output
+```json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```  ### Chain of Thought Reasoning
+The player has a high win rate (0.8333333333333334) and is on a winning streak (3 matches). This suggests that they are currently skilled and can handle a more challenging opponent. However, the player's feedback indicates that the last match was too simple, suggesting that they may want a more balanced match. Considering the player's recent performance and feedback, I will choose an opponent that is slightly more challenging than the last one but not overwhelmingly difficult.
+
+The player has not faced the "defensive_type" agent before, and the suggested characters for this type include "Vega", "Ryu", "Ken", and "Dhalsim". This type of agent is likely to provide a balanced match, as they are defensive but can still attack. I will choose this type of agent.
+
+Within the "defensive_type" agent, I will select a model with a moderate difficulty score. The model with a difficulty score of "8/10-(Hard)" seems suitable, as it is challenging but not too difficult.
+
+### JSON Output
+```json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```  ### Chain of Thought Reasoning
+The player has a high win rate (0.8333333333333334) and is on a winning streak (3 matches). This suggests that they are currently skilled and can handle a more challenging opponent. However, the player's feedback indicates that the last match was too simple, suggesting that they may want a more balanced match. Considering the player's recent performance and feedback, I will choose an opponent that is slightly more challenging than the last one but not overwhelmingly difficult.
+
+The player has not faced the "defensive_type" agent before, and the suggested characters for this type include "Vega", "Ryu", "Ken", and "Dhalsim". This type of agent is likely to provide a balanced match, as they are defensive but can still attack. I will choose this type of agent.
+
+Within the "defensive_type" agent, I will select a model with a moderate difficulty score. The model with a difficulty score of "8/10-(Hard)" seems suitable, as it is challenging but not too difficult.
+
+### JSON Output
+```json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```  ### Chain of Thought Reasoning
+The player has a high win rate (0.8333333333333334) and is on a winning streak (3 matches). This suggests that they are currently skilled and can handle a more challenging opponent. However, the player's feedback indicates that the last match was too simple, suggesting that they may want a more balanced match. Considering the player's recent performance and feedback, I will choose an opponent that is slightly more challenging than the last one but not overwhelmingly difficult.
+
+The player has not faced the "defensive_type" agent before, and the suggested characters for this type include "Vega", "Ryu", "Ken", and "Dhalsim". This type of agent is likely to provide a balanced match, as they are defensive but can still attack. I will choose this type of agent.
+
+Within the "defensive_type" agent, I will select a model with a moderate difficulty score. The model with a difficulty score of "8/10-(Hard)" seems suitable, as it is challenging but not too difficult.
+
+### JSON Output
+```json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character

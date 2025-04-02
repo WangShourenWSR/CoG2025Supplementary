@@ -1,0 +1,12 @@
+ Chain of Thought Reasoning and JSON object.
+</think>
+
+Chain of Thought Reasoning:
+The player has a high win rate and is on a winning streak, suggesting they are skilled. They rarely use special moves, indicating they might prefer a more balanced challenge without overwhelming advanced techniques. The player has faced Ryu, Ken, Sagat, and Dhalsim but not others like Guile or Blanka. The last opponent was aggressive, so a defensive or air type might provide a fresh challenge. The player's feedback suggests the last match was too simple, so a medium difficulty from the defensive type would be appropriate. The suggested character for defensive type is Ryu, Ken, Sagat, or Dhalsim, and the model path for a medium difficulty is "agent_models/agents_archive/defensive_type/1_0.23".
+
+###json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Sagat"
+}

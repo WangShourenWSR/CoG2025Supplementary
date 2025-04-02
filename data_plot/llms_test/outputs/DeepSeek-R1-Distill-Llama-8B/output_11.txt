@@ -1,0 +1,22 @@
+ chain of thought reasoning followed by JSON.
+</think>
+
+```json
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Ryu"
+}
+```
+
+**Chain of Thought Reasoning:**
+
+1. **Difficulty Adjustment**: The player has a high win rate (0.833) and a winning streak of 3, indicating they are performing well. To maintain fun and challenge, selecting a stronger opponent is appropriate.
+
+2. **Opponent Diversity**: The player has faced Ryu twice, Ken once, and EHonda once. To introduce variety, choosing a new character like Sagat could be beneficial. However, the model path suggests Ryu for projectile type, which aligns with the player's current performance.
+
+3. **Player Behaviors**: The player uses 9.5 special moves per match, indicating intermediate skill. A projectile-type opponent like Ryu can provide a balanced challenge without overwhelming the player.
+
+4. **Feedback Consideration**: The player found the last match too simple, suggesting a need for a stronger opponent. Ryu fits this requirement while maintaining diversity.
+
+5. **Character Selection**: Ryu is suggested by the projectile-type model, ensuring a mix of projectile attacks and aerial variety, which should keep the match engaging.

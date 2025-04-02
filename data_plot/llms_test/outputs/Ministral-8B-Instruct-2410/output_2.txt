@@ -1,0 +1,12 @@
+ Chain of Thought + 1 JSON object. Ensure your reasoning is concise and within the required word limit.
+## Chain of Thought Reasoning ###
+The player is currently experiencing a winning streak (3 wins in a row) with their character Ryu. They have also shown a high win rate of 83.33%, suggesting they are skilled. The player's feedback also indicates they found the last match too simple. Therefore, it's crucial to provide a challenging opponent but still balanced in difficulty. Given the player's preferences for higher intensity matches, I should avoid choosing an easy type. The player has faced few characters and types (mainly projectile and aggressive types), so I should consider a new type or character that can provide variety. Considering the recent feedback of the match being too simple, I should choose a character that offers more challenge and strategy. Given these conditions, I will select an aggressive type model but with a different character from either E. Honda or Vega, considering that they've faced these characters before. Additionally, the player prefers to face challenging opponents, so I will avoid characters that the player has already faced a few times.
+
+Given these evaluations, I have decided to choose an aggressive type character but avoid the ones the player has faced previously.
+
+###json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Zangief"
+}

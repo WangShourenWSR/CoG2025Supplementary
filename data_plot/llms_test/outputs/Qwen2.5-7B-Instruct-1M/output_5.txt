@@ -1,0 +1,10 @@
+ Chain of Thought first, then JSON.
+Chain of Thought Reasoning:
+The player has a high win rate and is currently on a winning streak, indicating they are skilled and have been facing relatively easy opponents. They rarely use special moves, suggesting they might be a beginner. The last opponent was aggressive type and very easy, which contradicts the win rate. The player's feedback also suggests the last match was too simple. To balance difficulty, we need to select a harder opponent, but considering the player's skill level, it should not be overwhelmingly difficult. The player has faced a variety of characters except for Chunli, Sagat, and Dhalsim, who are suggested for projectile type. Given the player's preference for projectile spamming, selecting an agent of this type would be appropriate. The agent model chosen should be of medium difficulty to challenge the player while maintaining a balanced experience. Thus, the projectile_type agent model with a medium difficulty score is selected.
+```json
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Sagat"
+}
+```

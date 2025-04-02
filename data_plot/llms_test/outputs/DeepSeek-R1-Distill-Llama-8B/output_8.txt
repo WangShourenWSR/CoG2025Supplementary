@@ -1,0 +1,12 @@
+ chain of thought reasoning, followed by the JSON object.
+</think>
+
+The player has a win rate of 83.33% and a current win streak of 3. They have faced various opponents but have not encountered Vega or Blanka often. The last opponent was an aggressive type, EHonda, who was difficult. The player's feedback indicates they found the last match too simple, suggesting they prefer more challenging opponents. Considering the player's performance and feedback, selecting a strong, yet challenging opponent would be ideal. The aggressive type offers a good balance of difficulty and diversity, with Vega being a strong character in this category. The model path for aggressive type is rated as hard, which aligns with the player's preference for more challenging matches.
+
+```json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "Vega"
+}
+```

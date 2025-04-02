@@ -1,0 +1,10 @@
+ Chain of Thought first, then JSON.
+Chain of Thought Reasoning:
+Given the player's high win rate and current win streak, we should choose a stronger opponent to keep the challenge balanced while ensuring the player can still achieve victories. The player's feedback indicates that the last match was too easy, so we need to increase the difficulty appropriately. The player frequently uses special moves (9.5 per match), suggesting they are more skilled and capable of handling more challenging opponents. They have faced the aggressive type and air type recently, so we should choose a different type to provide variety. The player has not faced the key spamming type, which could be a good choice to introduce a new experience. The agent archive shows that there are no agents available for the key spamming type, so we should avoid choosing this type. Considering the player's performance and feedback, a projectile type agent would be appropriate as it offers a mix of offensive and defensive strategies, providing a well-rounded challenge. The suggested characters for the projectile type include Ryu, Ken, Sagat, and Dhalsim. Given the player's current character is Ryu, we should choose a different character to add diversity. Among the suggested characters, Sagat is a good choice due to his strong aerial attacks and projectile spamming abilities. The model path for Sagat is "agent_models/agents_archive/projectile_type/2_0.2". This model offers a medium difficulty level, which aligns with the player's skill level and ensures the game remains enjoyable.
+```json
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Sagat"
+}
+```

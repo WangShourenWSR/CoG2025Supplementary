@@ -1,0 +1,42 @@
+ JSON.
+
+Okay, so I need to help choose the next opponent for a human player in Street Fighter II using a DRL model. Let's break down the problem step by step.
+
+First, looking at the playing data overview, the current character is Ryu. The player has 6 matches with a win rate of 83.33%, which is very high. They've won 5 and lost 1. The win streak is 3, so they're on a good run. The average score per match is 63/100, which isn't super high, but considering their win rate, maybe they're playing conservatively or focusing on defense.
+
+They use special moves almost every match (9.5 per match), so they're probably a more advanced player. They've faced Ryu twice, Ken, Chunli, Guile, Zangief, Balrog, Vega, Sagat, Bizon, and have a new opponent, EHonda. The last opponent was EHonda, which was aggressive type. The feedback from the player was that the enemy didn't perform any effective attack, so maybe the player found EHonda too weak or predictable.
+
+The principles for opponent selection say to balance difficulty, diversity, player behavior, and avoid repetition. Since the player has a high win rate and is on a winning streak, the next opponent should be challenging but not overwhelming. Also, they haven't faced many characters yet, so introducing a new one would be good for diversity.
+
+Looking at the Agent Archive, the suggested characters for each type are provided. The player's recent opponents included Ryu, EHonda (aggressive type). The last opponent was aggressive type, so maybe switching to a different type would help. The suggested types are projectile, defensive, etc.
+
+The player uses a lot of special moves, so a character that uses combo-heavy techniques would be a good fit. Checking the suggested characters for special move type, Ryu, Ken, Sagat, etc., are options. The model path for Ken's special move model is "special_move_type/1_0.25" with a difficulty score of 9/10, which is hard but might be suitable.
+
+Alternatively, considering diversity, maybe a different type, like defensive or air type. For example, using a defensive type character like Vega or Ken, but Ken is already suggested for special moves. The defensive type's difficulty is 8/10, which is hard but manageable.
+
+Wait, but the player has a high win rate, so maybe the opponent should be a bit harder. The special move model is already hard, but maybe another type could offer more variety. Looking at the suggested characters for projectile type, which includes Ryu, Ken, Sagat, etc. Sagat is a good option for projectile spamming.
+
+But the player has already faced Ryu twice, so maybe Sagat would be a new character. The difficulty for projectile type is 6/10, which is medium. Considering the player's recent performance, a medium difficulty might be appropriate to challenge them without being too hard.
+
+Alternatively, the player hasn't faced anyone from the air type yet. Air type characters like Chunli or Sagat could be an option. Chunli is suggested in air type, but Sagat is also in projectile. The difficulty for air type is 3/10, which is easy, but maybe not ideal if the player is already high in win rate.
+
+Another option is the defensive type, which is 8/10. Ken is suggested there, but the player already has some interactions with Ken. Maybe another character in defensive type, but the suggested ones are Ryu, Ken, Sagat, etc. Ryu is the current character, so maybe Sagat again, but that's repetitive.
+
+Alternatively, considering the player hasn't faced Zangief, who is aggressive type. The last opponent was aggressive, so maybe switching to a different type would provide variety. Zangief is already in aggressive type, which the player hasn't faced yet. The model path for Zangief in aggressive type is available, but the difficulty is 8/10.
+
+Wait, the player's feedback was that the enemy didn't perform well, so maybe the opponent is too strong. But since the player has a high win rate, perhaps the opponent should be challenging but not too hard. Maybe a medium difficulty.
+
+Looking at the suggested characters for special move type, Ken's model is 9/10, which is hard. But the player might handle that. Alternatively, Sagat in projectile type is 6/10, which is medium. Since the player has a high win rate, medium might be appropriate to keep the game enjoyable but challenging.
+
+Also, considering the player hasn't faced Sagat yet, introducing a new character would be good for diversity. Plus, Sagat is known for projectile-based moves, which could offer a different challenge compared to Ryu's neutral play.
+
+So, putting it all together: the player is high-performing, so medium difficulty is suitable. Introduce a new character for diversity, and a character that uses special moves for combo potential. Sagat fits both criteria.
+
+Therefore, the chosen agent type is special_move_type, model path is "special_move_type/1_0.25", and character is Sagat.
+</think>
+
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}

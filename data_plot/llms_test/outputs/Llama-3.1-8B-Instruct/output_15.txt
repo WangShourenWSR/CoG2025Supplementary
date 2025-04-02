@@ -1,0 +1,139 @@
+ 
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat once, so I will select an opponent they have not faced frequently.
+
+To balance difficulty and diversity, I will choose an opponent with a medium difficulty level. The player has used special moves frequently, indicating they are skilled, so I will select an opponent with a strong defensive playstyle to provide a challenge.
+
+### JSON Object:
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}
+```
+
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat once, so I will select an opponent they have not faced frequently.
+
+To balance difficulty and diversity, I will choose an opponent with a medium difficulty level. The player has used special moves frequently, indicating they are skilled, so I will select an opponent with a strong defensive playstyle to provide a challenge.
+
+### JSON Object:
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}
+```
+
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat once, so I will select an opponent they have not faced frequently.
+
+To balance difficulty and diversity, I will choose an opponent with a medium difficulty level. The player has used special moves frequently, indicating they are skilled, so I will select an opponent with a strong defensive playstyle to provide a challenge.
+
+### JSON Object:
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}
+```
+
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat once, so I will select an opponent they have not faced frequently.
+
+To balance difficulty and diversity, I will choose an opponent with a medium difficulty level. The player has used special moves frequently, indicating they are skilled, so I will select an opponent with a strong defensive playstyle to provide a challenge.
+
+### JSON Object:
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}
+```
+
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat once, so I will select an opponent they have not faced frequently.
+
+To balance difficulty and diversity, I will choose an opponent with a medium difficulty level. The player has used special moves frequently, indicating they are skilled, so I will select an opponent with a strong defensive playstyle to provide a challenge.
+
+### JSON Object:
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}
+```
+
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat once, so I will select an opponent they have not faced frequently.
+
+To balance difficulty and diversity, I will choose an opponent with a medium difficulty level. The player has used special moves frequently, indicating they are skilled, so I will select an opponent with a strong defensive playstyle to provide a challenge.
+
+### JSON Object:
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}
+```
+
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat once, so I will select an opponent they have not faced frequently.
+
+To balance difficulty and diversity, I will choose an opponent with a medium difficulty level. The player has used special moves frequently, indicating they are skilled, so I will select an opponent with a strong defensive playstyle to provide a challenge.
+
+### JSON Object:
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}
+```
+
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat once, so I will select an opponent they have not faced frequently.
+
+To balance difficulty and diversity, I will choose an opponent with a medium difficulty level. The player has used special moves frequently, indicating they are skilled, so I will select an opponent with a strong defensive playstyle to provide a challenge.
+
+### JSON Object:
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}
+```
+
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat once, so I will select an opponent they have not faced frequently.
+
+To balance difficulty and diversity, I will choose an opponent with a medium difficulty level. The player has used special moves frequently, indicating they are skilled, so I will select an opponent with a strong defensive playstyle to provide a challenge.
+
+### JSON Object:
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}
+```
+
+
+### Chain of Thought Reasoning:
+The player's current win rate is 83.33%, indicating they are performing well. However, their recent feedback suggests they find the current match too simple, indicating a desire for a more challenging opponent. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but still within their skill level. The player has faced Vega and EHonda twice and Sagat

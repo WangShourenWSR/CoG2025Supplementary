@@ -1,0 +1,13 @@
+ JSON.
+</think>
+
+Chain of Thought Reasoning:
+
+The player's win rate is 83.3%, indicating a high level of skill. They recently won three matches in a row, so selecting a stronger opponent would maintain their enjoyment while challenging them. The player rarely uses special moves, having only 2 out of 6 matches with special moves, suggesting they might prefer simpler strategies. Opponent diversity is important to avoid repetition, so choosing a character they haven't faced yet would be beneficial. The player's feedback indicated the enemy didn't perform well, so an aggressive character with strong attacks could add variety and challenge. The suggested models for aggressive_type include Ryu, Ken, EHonda, etc. EHonda was their last opponent, so avoiding that to provide new experiences is key. The difficulty adjustment should be moderate since the player is skilled but not overconfident. The suggested model difficulty for aggressive_type is 8/10, which is challenging but not too hard.
+
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}

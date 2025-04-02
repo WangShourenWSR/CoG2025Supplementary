@@ -1,0 +1,12 @@
+ (Chain of Thought Reasoning) followed by the JSON object.
+</think>
+
+Chain of Thought Reasoning:
+The player has a high win rate (83.33%) and is on a winning streak (3 wins in a row). According to the difficulty adjustment principle, when the player is on a winning streak, it's best to choose a stronger opponent to maintain the fun while challenging them. The player has faced Ryu (2 times), Ken (0 times), Sagat (1 time), Bison (0 times), and others. The player rarely uses special moves (average 9.5 per match) but has faced a few agents of different types. The last opponent was aggressive type, which was too simple, suggesting the player prefers more dynamic and challenging opponents. The player's feedback indicates they want more variety and difficulty. The suggested character for aggressive type is Ryu, Ken, EHonda, Zangief, Balrog, Sagat, or Bison. The suggested model for aggressive type with difficulty 8/10 is Ryu with model path "agent_models/agents_archive/aggressive_type/1_0.22".
+
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "Ryu"
+}

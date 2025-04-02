@@ -1,0 +1,15 @@
+ JSON
+
+## Chain of Thought Reasoning
+The player has a win rate of 83%, with a current winning streak of 3 matches and no losses. They requested a more challenging opponent. The player predominantly uses special moves (an average of 9.5 per match) and has faced multiple types including projectile, defensive, and aggressive types.
+
+Given their preferences and the diversity of opponents faced so far, it would challenge the player to face an agent of projectile-type. Although the player has previously faced projectiles, it is a lesser type compared to defensive or aggressive ones. Moreover, the player's feedback indicates they desire more complexity in gameplay.
+
+Thus, choose a projectile-type agent that presents a middle-of-the-road difficulty to maintain the balance between challenging gameplay and the player's skill level. The agent that best meets these criteria is a projectile-type agent with a difficulty score of "6/10". From the agent archive, the agent with the suggested model path of "agent_models/agents_archive/projectile_type/2_0.2" will be chosen. Additionally, since the player likes Sagat and has faced some suggested projectile characters before, but less so, the agent character will be Sagat.
+
+## Final Decision
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Sagat"
+}

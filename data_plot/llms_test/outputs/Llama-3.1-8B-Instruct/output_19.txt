@@ -1,0 +1,222 @@
+ 
+###json
+{
+    "chosen_agent_type": "string",
+    "chosen_agent_model_path": "string",
+    "chosen_agent_character": "string"
+}
+
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} ###json
+###json
+{
+  "chosen_agent_type": "defensive_type",
+

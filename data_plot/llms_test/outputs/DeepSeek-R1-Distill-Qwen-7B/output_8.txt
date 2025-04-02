@@ -1,0 +1,11 @@
+ JSON object with the three mandatory fields, and include the chain of thought reasoning before it.
+</think>
+
+Chain of Thought: The player has a high win rate, indicating they are performing well. The last opponent was aggressive, which might be too challenging for them. To balance difficulty, I should choose a defensive type opponent. The player hasn't faced Chunli yet, making them a good new challenge. Chunli's model has a difficulty score of 8/10, which is hard but manageable for the player. This choice supports the player's win streak and introduces new defensive strategies.
+
+###json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Chunli"
+}

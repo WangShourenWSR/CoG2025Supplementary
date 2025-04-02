@@ -1,0 +1,17 @@
+ JSON object with the three fields.
+</think>
+
+Chain of Thought:
+
+The player's current performance shows a high win rate (83.33%) with a recent win streak of 3, indicating they are performing well and possibly more advanced. The playing data indicates they rarely use special moves (average 9.5 per match) and have faced various agents but predominantly in "aggressive_type" and "projectile_type". The last opponent was an aggressive type, suggesting the player might benefit from a different strategy or character to avoid repetition and maintain challenge.
+
+Considering the principles, the player should face a new character and type to provide variety. The "newbie_type" offers a range of characters and a model difficulty score of 0/10, which is very easy, suitable for balancing difficulty without overwhelming the player. The suggested characters for newbie_type include Ryu, Ken, Sagat, etc., with the model path "agent_models/agents_archive/newbie_type/1_0.017".
+
+JSON:
+```json
+{
+    "chosen_agent_type": "newbie_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/newbie_type/1_0.017",
+    "chosen_agent_character": "Ryu"
+}
+```

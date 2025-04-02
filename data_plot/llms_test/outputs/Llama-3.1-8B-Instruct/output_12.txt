@@ -1,0 +1,196 @@
+ 
+###json
+{
+    "chosen_agent_type": "string",
+    "chosen_agent_model_path": "string",
+    "chosen_agent_character": "string"
+}
+###
+
+
+The player has a high win rate (83.33%) and is on a winning streak (3 matches). This suggests that the player is currently skilled and can handle a more challenging opponent. However, the player's feedback indicates that the last match was too simple, suggesting that they might be looking for a more balanced experience. Considering the player's recent performance and feedback, I will choose an opponent that is more challenging but not overwhelming. The player has already faced Vega and Sagat, so I will choose a different character and type to provide variety. I will select an agent that is not too easy or too hard, but rather one that will provide a fun and challenging experience.
+
+Based on the Agent Archive, I will choose the "aggressive_type" as the opponent type. This type is suitable for the player's current skill level and will provide a more balanced experience. The suggested characters for this type are Ryu, Ken, EHonda, Zangief, Balrog, Sagat, and Bison. However, since the player has already faced Vega and Sagat, I will choose a different character. I will select EHonda as the opponent character, as it is a good fit for the aggressive type and the player has not faced it before.
+
+To balance the difficulty, I will choose an agent model that has a moderate difficulty score. From the Agent Archive, I will select the agent model with the model path "agent_models/agents_archive/aggressive_type/1_0.22" and difficulty score "8/10-(Hard)".
+
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}###json
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}

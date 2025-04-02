@@ -1,0 +1,10 @@
+ Chain of Thought first, then JSON.
+Chain of Thought Reasoning:
+Based on the provided playing data, the player has been performing exceptionally well, with a win rate of 83.33% and a current win streak of 3 matches. They have used special moves frequently (9.5 per match), indicating a high level of skill. Additionally, the player's last opponent was an aggressive type, which they found too easy. Therefore, the player would benefit from facing a more challenging opponent, but not overwhelming them with an extremely hard one. To diversify the experience, we should choose an opponent that is neither a projectile-type nor aggressive, as these types were represented in the last match. The player has faced defensive and air-type opponents only once, so these types could provide variety. Considering the player's feedback about the previous match being too simple, we should select an opponent that can offer a balanced challenge. The "special_move_type" is a good choice as it offers a balance between complexity and challenge, avoiding the overly simplistic nature of the last match. The chosen agent should also be a character that the player hasn't faced many times to ensure variety. Based on the agent archive, the "special_move_type" offers several options, including "Ryu," "Ken," and "Dhalsim." Since the player has already faced Ryu twice, we will choose Ken, who is a suggested character for the special move type and has not been frequently encountered by the player.
+```json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Ken"
+}
+```

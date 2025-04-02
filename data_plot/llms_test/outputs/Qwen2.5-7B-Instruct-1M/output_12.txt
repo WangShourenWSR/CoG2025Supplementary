@@ -1,0 +1,16 @@
+ Chain of Thought first, then JSON.
+Chain of Thought Reasoning:
+Based on the provided playing data, the player has been performing exceptionally well, with a win rate of 83.33% and a current win streak of 3 matches. The player's feedback suggests that the last opponent was too easy, which might have led to this complaint. To address this, we need to select an opponent that is appropriately challenging yet not overwhelming. 
+
+Given the player's recent performance, choosing a stronger opponent is necessary. The player has faced various types of agents, including projectile-heavy, defensive, and aggressive types. They have already faced Ryu twice and Vega twice, suggesting a need for a new character. The player frequently uses special moves, indicating they are comfortable with advanced techniques and can handle more challenging opponents.
+
+Considering these factors, we should select an agent from the "special_move_type" category. This type of agent is known for its complexity and variety, making it suitable for a player who is skilled and enjoys a challenge. The "special_move_type" includes characters like Ryu, Ken, and Sagat, all of whom are formidable opponents. Given the player's preference for Ryu, selecting Sagat would offer a fresh challenge while maintaining balance.
+
+In conclusion, the chosen agent should be from the "special_move_type," and Sagat fits the criteria as it offers a challenging yet enjoyable experience for the player.
+```json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}
+```

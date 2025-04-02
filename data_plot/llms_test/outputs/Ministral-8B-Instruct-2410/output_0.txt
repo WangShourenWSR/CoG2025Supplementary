@@ -1,0 +1,20 @@
+ Chain of Thought + JSON object.
+
+---
+
+**Chain of Thought Reasoning:**
+
+The player has a win rate of 83% and is currently on a win streak of 3. However, the player reports that the last opponent was too simplistic, indicating a need for a more challenging agent. Based on the Principle for Opponent Selection and the player's preference, we should choose an opponent with a harder difficulty level.
+
+Given the player's preference for challenging opponents, we should avoid repeating the same types of opponents or characters. The last opponent was of the "aggressive_type" with the character "EHonda", so we should choose a different type or character. Projectile and special move types are suitable alternatives that provide difficulty.
+
+We should choose an option that is neither too hard nor too easy. An agent with a difficulty score of 6/10 (Medium) should be suitable.
+
+Based on the Agent Archive, the model with a difficulty score of 6/10 (Medium) under "projectile_type" is a good choice. Since the player has not faced "Dhalsim" or "Sagat" before, we can choose "Sagat". This will provide the player with a new challenge while keeping the difficulty at an appropriate level.
+
+###json
+{
+  "chosen_agent_type": "projectile_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+  "chosen_agent_character": "Sagat"
+}

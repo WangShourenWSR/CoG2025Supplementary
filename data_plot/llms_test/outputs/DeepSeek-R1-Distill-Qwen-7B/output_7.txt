@@ -1,0 +1,23 @@
+ Choose an opponent agent based on the principles, playing data, and the archiving information.
+</think>
+
+Chain of Thought Reasoning:
+
+The player's recent performance shows a high win rate (83.33%) with a current win streak of 3, indicating they are performing well. According to the Difficulty Adjustment principle, if the player has a high win rate, we should choose a stronger opponent to maintain fun but challenging difficulty. The player has faced Ryu (5 wins, 1 loss) and has used special moves 9.5 times per match, suggesting they are experienced and prefer advanced techniques.
+
+Looking at the Opponent Diversity, the player has faced Ryu twice, Ken, Chunli, Guile, Zangief, Balrog, Vega, Sagat, Bish, and Zangief again. They have not faced agents from other types like Coward, Air, or newbies. Selecting an aggressive type could introduce new variety.
+
+The Player Feedback indicates the enemy was too simple, so avoiding agents that perform ineffective attacks would be good. The suggested characters for each type must be considered.
+
+The player's average score is 63/100, which is below average, but their recent performance is strong. The player is likely looking for a challenge that aligns with their skill level.
+
+Considering all factors, selecting an aggressive type with a character that hasn't been faced and a model that balances difficulty. The available models for aggressive_type suggest difficulty scores from 3/10 to 8/10. Choosing a medium difficulty model would provide a good challenge.
+
+The final decision is to select an aggressive_type with a character not previously faced and a medium difficulty model to balance challenge and player enjoyment.
+
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/2_0.22",
+    "chosen_agent_character": "Zangief"
+}

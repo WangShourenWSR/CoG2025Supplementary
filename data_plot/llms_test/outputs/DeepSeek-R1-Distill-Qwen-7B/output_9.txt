@@ -1,0 +1,21 @@
+ JSON.
+</think>
+
+Chain of Thought:
+
+The player's recent performance shows a high win rate (83.33%) and a winning streak of 3 matches. This indicates that the player is currently performing well and could benefit from a slightly more challenging opponent to maintain the difficulty level but also to keep the game engaging. 
+
+Looking at the opponent selection guidelines, since the player has a high win rate, choosing a stronger opponent is appropriate. The player has faced Ryu, Ken, Sagat, and Dhalsim in the last opponents, so selecting a new character from a different suggested category would provide diversity. The defensive_type category includes characters like Vega and Ryu, but the player has faced Ryu already. Therefore, choosing a new character from the defensive_type category would provide both difficulty and diversity.
+
+The suggested character for defensive_type is Vega, Ken, Ryu, Dhalsim, and Sagat. Ryu has been faced, so Ken is a good choice. Additionally, the model_path for the agent of defensive_type with difficulty score 8/10-(Hard) is available. This model is suggested for defensive strategies, which aligns with the player's high performance and the need for a challenging opponent.
+
+Chain of Thought:
+
+Considering the player's high win rate and recent streak, a stronger opponent is recommended. The defensive_type category offers a strategic challenge, and Ken is a suitable character as he hasn't been faced yet. The model_path is appropriate for the defensive difficulty level.
+
+###json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Ken"
+}

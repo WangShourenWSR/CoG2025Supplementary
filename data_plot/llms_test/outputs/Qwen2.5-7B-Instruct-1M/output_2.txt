@@ -1,0 +1,10 @@
+ Chain of Thought first, then JSON.
+Chain of Thought Reasoning:
+The player, Ryu, has a high win rate and is currently on a winning streak, indicating they are skilled and should face a stronger opponent. They have faced projectile-type opponents twice, so it's time to diversify. The player has used special moves frequently, suggesting they are experienced. The last opponent was aggressive and easy, hence the feedback indicates a desire for a more challenging match. Considering the player's recent performance and feedback, choosing a projectile-type opponent would provide a new challenge while maintaining enjoyment. The suggested characters for projectile-type include Ryu, Ken, Sagat, and Dhalsim. Since Ryu and Ken have been faced before, selecting Sagat or Dhalsim would be appropriate. Given the player's skill level, a medium difficulty model would be suitable.
+```json
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Sagat"
+}
+```

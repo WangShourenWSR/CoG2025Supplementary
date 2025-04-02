@@ -1,0 +1,12 @@
+ JSON object with the three fields.
+</think>
+
+Chain of Thought Reasoning:
+The player has a high win rate (83.33%) and is on a winning streak, indicating they are performing well. To maintain challenge without overwhelming, the opponent should be of medium difficulty. The player has faced Ryu (win 5/6), Ken (0/1), and Sagat (1/1). The last opponent was aggressive_type, which may have been too strong. The player's feedback suggested the last match was too simple, indicating they prefer more dynamic or varied encounters. The player also rarely uses special moves (average 9.5 per match), suggesting they might find standard agents easier. Considering diversity, selecting a defensive or air type agent could provide new experiences. The player's recent performance suggests a moderate challenge, so choosing a defensive_type agent with a medium difficulty score would balance the experience. The suggested character for defensive_type is Vega, which offers strong defensive strategies. The model path for a moderate difficulty defensive agent is "agent_models/agents_archive/defensive_type/1_0.23". 
+
+###json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}

@@ -1,0 +1,17 @@
+ Chain of Thought reasoning followed by the JSON.
+
+The user's playing data shows that the player is Ryu with a high win rate (83.33%) and a 3-match win streak. They have faced various opponents, including EHonda, Vega, and Sagat, but have not faced Chunli or Blanka yet. The last opponent was an aggressive-type EHonda, rated as Hard difficulty. The player's feedback was that the last match was too simple, suggesting they are looking for more challenging opponents.
+
+Considering the player's recent performance, a high win rate and win streak indicate they are on a roll. To maintain fun and challenge, the next opponent should be more difficult than the last. The last opponent was aggressive, so perhaps a different type would add variety. The player has not faced Chunli, who is known for aerial attacks and strong defense, making them a good choice for diversity. Chunli fits the air_type, which is not yet faced by the player. Additionally, the player has used 9.5 special moves per match, indicating some skill, so a challenging opponent would keep the game engaging. The air_type agents are medium difficulty, which should provide a good challenge without being overwhelming. Thus, selecting Chunli as the next opponent would balance difficulty, diversity, and keep the player engaged.
+</think>
+
+```json
+{
+    "chosen_agent_type": "air_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/air_type/1_0.08",
+    "chosen_agent_character": "Chunli"
+}
+```
+
+**Chain of Thought Reasoning:**
+The player has a high win rate and a 3-match win streak, indicating they are performing well. The last opponent was an aggressive-type EHonda, which the player found too simple. To increase difficulty and diversity, I chose Chunli from the air_type, who offers a different playstyle with strong aerial attacks and defense. This balances challenge and variety, keeping the game enjoyable for the player.

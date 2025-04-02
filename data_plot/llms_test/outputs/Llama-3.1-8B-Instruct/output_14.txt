@@ -1,0 +1,58 @@
+ 
+###json
+{
+  "chosen_agent_type": "",
+  "chosen_agent_model_path": "",
+  "chosen_agent_character": ""
+}
+
+### Chain of Thought Reasoning
+
+First, let's analyze the player's performance and recent feedback. The player has a high win rate of 83.33% and is on a 3-match winning streak. They have also faced a variety of opponents, including Ryu, Ken, and Sagat. However, they have expressed frustration with the current opponent being too simple, suggesting that they are looking for a more challenging match.
+
+To balance difficulty and diversity, I will choose an opponent that is more challenging than the current one but still within the player's skill level. Based on the Agent Archive, I will select an agent from the "aggressive_type" category, which is suggested to be more challenging than the current opponent.
+
+Next, I will consider the player's recent performance and feedback. They have been using special moves frequently, indicating that they are skilled in this area. To maintain fun and challenge, I will choose an agent that is also skilled in special moves.
+
+Based on the Agent Archive, I will select an agent from the "special_move_type" category, which is suggested to be more challenging and skilled in special moves. However, I will also consider the player's feedback and recent performance to ensure that the chosen agent is not too overwhelming.
+
+After careful consideration, I will choose an agent from the "special_move_type" category, specifically the model with the highest difficulty score, which is 9/10-(Hard). This agent is suggested to be more challenging and skilled in special moves, making it a suitable opponent for the player.
+
+The chosen agent type is "special_move_type", which is suggested to be more challenging and skilled in special moves. The chosen agent model path is "agent_models/agents_archive/special_move_type/1_0.25", which has the highest difficulty score of 9/10-(Hard). The chosen agent character is "Ryu", which is suggested to be suitable for the "special_move_type" category.
+
+###json
+{
+  "chosen_agent_type": "special_move_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+  "chosen_agent_character": "Ryu"
+}  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "chosen_agent_character": "Ryu" }  ###json
+{ "chosen_agent_type": "special_move_type", "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25", "

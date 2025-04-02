@@ -1,0 +1,16 @@
+ Chain of Thought first, then JSON.
+Chain of Thought Reasoning:
+Based on the provided playing_data, the player has a high win rate of 83.33% and is currently on a win streak of 3 matches. This indicates that the player is skilled and comfortable with Ryu. To enhance enjoyment, we need to challenge the player while keeping them engaged. The last opponent was an aggressive type with a character EHonda, which suggests that the player might have already encountered similar playstyles. Therefore, it's time to diversify the opponent types. 
+
+Given the player's high skill level and frequent use of special moves (average of 9.5 per match), we should select a challenging opponent who can handle advanced techniques. The "special_move_type" agents seem suitable as they focus on strategic use of special moves, which aligns well with the player's gameplay. Among the available models, the "special_move_type" model with a difficulty score of 9/10 seems appropriate as it offers a high challenge without overwhelming the player. 
+
+Additionally, the player hasn't faced any "special_move_type" agents before, making this a good opportunity to introduce new diversity. Since the player has already played Ryu twice, it would be beneficial to select a different character within the same type to ensure variety. Considering the suggested characters for this type, "Ken" stands out as a suitable choice due to his versatility and balanced playstyle.
+
+JSON:
+```json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Ken"
+}
+```

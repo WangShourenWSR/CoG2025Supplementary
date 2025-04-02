@@ -1,0 +1,234 @@
+ Chain of Thought reasoning and one JSON object. 
+
+Here is the playing data and the agent archive you can use to make your decision:
+
+{
+  "current_character": "Ryu",
+  "total_matches": 6,
+  "win_rate": 0.8333333333333334,
+  "total_wins": 5,
+  "total_losses": 1,
+  "current_win_streak": 3,
+  "current_loss_streak": 0,
+  "average_score_per_match": "63/100",
+  "average_special_moves_per_match": 9.5,
+  "faced_agents_times": {
+    "projectile_type": 3,
+    "special_move_type": 0,
+    "defensive_type": 1,
+    "aggressive_type": 1,
+    "air_type": 1,
+    "coward_type": 0,
+    "newbie_type": 0,
+    "key_spamming_type": 0
+  },
+  "faced_characters_times": {
+    "Ryu": 2,
+    "Ken": 0,
+    "Chunli": 0,
+    "Guile": 0,
+    "Blanka": 0,
+    "Zangief": 0,
+    "Dhalsim": 0,
+    "Balrog": 0,
+    "Vega": 2,
+    "Sagat": 1,
+    "Bison": 0,
+    "EHonda": 1
+  },
+  "the_last_opponents": {
+    "type": "aggressive_type",
+    "character": "EHonda",
+    "model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "difficulty": "8/10-(Hard)"
+  },
+  "player's_feedback": "This match is too simple, the enemy didn't perform any effective attack at all"
+}
+
+{
+  "projectile_type": {
+    "suggested_characters_for_this_type": [
+      "Ryu",
+      "Ken",
+      "Sagat",
+      "Dhalsim"
+    ],
+    "agent_models": [
+      {
+        "model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+        "model_difficulty_score": "6/10-(Medium)"
+      }
+    ]
+  },
+  "special_move_type": {
+    "suggested_characters_for_this_type": [
+      "Ryu",
+      "Ken",
+      "Sagat",
+      "Dhalsim"
+    ],
+    "agent_models": [
+      {
+        "model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+        "model_difficulty_score": "9/10-(Hard)"
+      }
+    ]
+  },
+  "newbie_type": {
+    "suggested_characters_for_this_type": [
+      "Ryu",
+      "Ken",
+      "Dhalsim",
+      "EHonda",
+      "Chunli",
+      "Blanka",
+      "Guile",
+      "Zangief",
+      "Balrog",
+      "Vega",
+      "Sagat",
+      "Bison"
+    ],
+    "agent_models": [
+      {
+        "model_path": "agent_models/agents_archive/newbie_type/1_0.017",
+        "model_difficulty_score": "0/10-(Very Easy)"
+      }
+    ]
+  },
+  "defensive_type": {
+    "suggested_characters_for_this_type": [
+      "Vega",
+      "Ryu",
+      "Ken",
+      "Dhalsim",
+      "Sagat"
+    ],
+    "agent_models": [
+      {
+        "model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+        "model_difficulty_score": "8/10-(Hard)"
+      }
+    ]
+  },
+  "aggressive_type": {
+    "suggested_characters_for_this_type": [
+      "Ryu",
+      "Ken",
+      "EHonda",
+      "Zangief",
+      "Balrog",
+      "Sagat",
+      "Bison"
+    ],
+    "agent_models": [
+      {
+        "model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+        "model_difficulty_score": "8/10-(Hard)"
+      }
+    ]
+  },
+  "air_type": {
+    "suggested_characters_for_this_type": [
+      "Ryu",
+      "Ken",
+      "Dhalsim",
+      "Chunli"
+    ],
+    "agent_models": [
+      {
+        "model_path": "agent_models/agents_archive/air_type/1_0.08",
+        "model_difficulty_score": "3/10-(Easy)"
+      }
+    ]
+  },
+  "coward_type": {
+    "suggested_characters_for_this_type": [
+      "Ryu",
+      "Ken",
+      "EHonda",
+      "Chunli",
+      "Blanka",
+      "Guile",
+      "Zangief",
+      "Balrog",
+      "Vega",
+      "Bison"
+    ],
+    "agent_models": [
+      {
+        "model_path": "agent_models/agents_archive/coward_type/1_0.02",
+        "model_difficulty_score": "1/10-(Very Easy)"
+      }
+    ]
+  },
+  "key_spamming_type": {
+    "suggested_characters_for_this_type": "Unfortunatelly, there are no agents for this type, PLEASE DON'T CHOOSE THIS TYPE",
+    "agent_models": "Unfortunatelly, there are no agents for this type, PLEASE DON'T CHOOSE THIS TYPE"
+  }
+}
+
+###json
+{
+    "chosen_agent_type": "",
+    "chosen_agent_model_path": "",
+    "chosen_agent_character": ""
+} 
+
+Please provide your decision. 
+
+**Step 1: Analyze the player's performance and feedback**
+The player's win rate is 0.833, indicating they are performing well. However, their average special moves per match is 9.5, suggesting they are not yet using special moves effectively. The player's feedback mentions that the last match was too simple, indicating they want a more challenging opponent.
+
+**Step 2: Determine the difficulty level**
+Based on the player's win rate and feedback, we should choose an opponent that is slightly more challenging than the last one. The last opponent was of "aggressive_type" with a difficulty score of 8/10. We should aim for a difficulty score of at least 7/10.
+
+**Step 3: Choose the opponent type and character**
+Considering the player's performance and feedback, we should choose an opponent that is more challenging but not overwhelming. We can consider the "defensive_type" or "aggressive_type" as options. Since the player has already faced an "aggressive_type" opponent, we can choose the "defensive_type" for variety.
+
+**Step 4: Select the specific opponent**
+Based on the "defensive_type" suggested characters, we can choose "Vega" as the opponent character. Vega is a defensive character that can provide a challenging match for the player.
+
+**Step 5: Select the opponent model**
+We can choose the "defensive_type" model with a difficulty score of 8/10, which is suitable for the player's current skill level.
+
+###json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}  ###json
+{ 
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} 
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}  ###json
+{ 
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} 
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}  ###json
+{ 
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+} 
+###json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}  ###json
+

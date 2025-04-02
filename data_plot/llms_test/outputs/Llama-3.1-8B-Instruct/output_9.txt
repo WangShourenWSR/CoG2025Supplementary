@@ -1,0 +1,141 @@
+ 
+###json
+{
+    "chosen_agent_type": "string",
+    "chosen_agent_model_path": "string",
+    "chosen_agent_character": "string"
+}
+###json
+
+###Chain of Thought Reasoning: 
+The player's win rate is high (0.8333333333333334), and they are on a winning streak (3 matches). This suggests that the player is skilled and can handle a challenging opponent. Therefore, I will choose a stronger opponent.
+
+The player has not faced the "special_move_type" agent before, and they have used special moves frequently (average_special_moves_per_match: 9.5). This indicates that the player is familiar with special moves and can handle an opponent that uses them frequently.
+
+Considering the player's feedback, they found the last match too simple. Therefore, I will choose an opponent that is more challenging.
+
+Based on the playing data, I will choose an opponent from the "special_move_type" category, which is a good match for the player's skill level and playstyle.
+
+From the Agent Archive, I will select an agent model with a difficulty score of "9/10-(Hard)" to provide a challenging match for the player.
+
+The suggested character for this type is "Ryu" or "Ken", but since the player has already faced Ryu twice, I will choose "Ken" as the character.
+
+###json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Ken"
+}
+###json
+
+###Chain of Thought Reasoning: 
+The player's win rate is high (0.8333333333333334), and they are on a winning streak (3 matches). This suggests that the player is skilled and can handle a challenging opponent. Therefore, I will choose a stronger opponent.
+
+The player has not faced the "special_move_type" agent before, and they have used special moves frequently (average_special_moves_per_match: 9.5). This indicates that the player is familiar with special moves and can handle an opponent that uses them frequently.
+
+Considering the player's feedback, they found the last match too simple. Therefore, I will choose an opponent that is more challenging.
+
+Based on the playing data, I will choose an opponent from the "special_move_type" category, which is a good match for the player's skill level and playstyle.
+
+From the Agent Archive, I will select an agent model with a difficulty score of "9/10-(Hard)" to provide a challenging match for the player.
+
+The suggested character for this type is "Ryu" or "Ken", but since the player has already faced Ryu twice, I will choose "Ken" as the character.
+
+###json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Ken"
+}
+###json
+
+###Chain of Thought Reasoning: 
+The player's win rate is high (0.8333333333333334), and they are on a winning streak (3 matches). This suggests that the player is skilled and can handle a challenging opponent. Therefore, I will choose a stronger opponent.
+
+The player has not faced the "special_move_type" agent before, and they have used special moves frequently (average_special_moves_per_match: 9.5). This indicates that the player is familiar with special moves and can handle an opponent that uses them frequently.
+
+Considering the player's feedback, they found the last match too simple. Therefore, I will choose an opponent that is more challenging.
+
+Based on the playing data, I will choose an opponent from the "special_move_type" category, which is a good match for the player's skill level and playstyle.
+
+From the Agent Archive, I will select an agent model with a difficulty score of "9/10-(Hard)" to provide a challenging match for the player.
+
+The suggested character for this type is "Ryu" or "Ken", but since the player has already faced Ryu twice, I will choose "Ken" as the character.
+
+###json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Ken"
+}
+###json
+
+###Chain of Thought Reasoning: 
+The player's win rate is high (0.8333333333333334), and they are on a winning streak (3 matches). This suggests that the player is skilled and can handle a challenging opponent. Therefore, I will choose a stronger opponent.
+
+The player has not faced the "special_move_type" agent before, and they have used special moves frequently (average_special_moves_per_match: 9.5). This indicates that the player is familiar with special moves and can handle an opponent that uses them frequently.
+
+Considering the player's feedback, they found the last match too simple. Therefore, I will choose an opponent that is more challenging.
+
+Based on the playing data, I will choose an opponent from the "special_move_type" category, which is a good match for the player's skill level and playstyle.
+
+From the Agent Archive, I will select an agent model with a difficulty score of "9/10-(Hard)" to provide a challenging match for the player.
+
+The suggested character for this type is "Ryu" or "Ken", but since the player has already faced Ryu twice, I will choose "Ken" as the character.
+
+###json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Ken"
+}
+###json
+
+###Chain of Thought Reasoning: 
+The player's win rate is high (0.8333333333333334), and they are on a winning streak (3 matches). This suggests that the player is skilled and can handle a challenging opponent. Therefore, I will choose a stronger opponent.
+
+The player has not faced the "special_move_type" agent before, and they have used special moves frequently (average_special_moves_per_match: 9.5). This indicates that the player is familiar with special moves and can handle an opponent that uses them frequently.
+
+Considering the player's feedback, they found the last match too simple. Therefore, I will choose an opponent that is more challenging.
+
+Based on the playing data, I will choose an opponent from the "special_move_type" category, which is a good match for the player's skill level and playstyle.
+
+From the Agent Archive, I will select an agent model with a difficulty score of "9/10-(Hard)" to provide a challenging match for the player.
+
+The suggested character for this type is "Ryu" or "Ken", but since the player has already faced Ryu twice, I will choose "Ken" as the character.
+
+###json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Ken"
+}
+###json
+
+###Chain of Thought Reasoning: 
+The player's win rate is high (0.8333333333333334), and they are on a winning streak (3 matches). This suggests that the player is skilled and can handle a challenging opponent. Therefore, I will choose a stronger opponent.
+
+The player has not faced the "special_move_type" agent before, and they have used special moves frequently (average_special_moves_per_match: 9.5). This indicates that the player is familiar with special moves and can handle an opponent that uses them frequently.
+
+Considering the player's feedback, they found the last match too simple. Therefore, I will choose an opponent that is more challenging.
+
+Based on the playing data, I will choose an opponent from the "special_move_type" category, which is a good match for the player's skill level and playstyle.
+
+From the Agent Archive, I will select an agent model with a difficulty score of "9/10-(Hard)" to provide a challenging match for the player.
+
+The suggested character for this type is "Ryu" or "Ken", but since the player has already faced Ryu twice, I will choose "Ken" as the character.
+
+###json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Ken"
+}
+###json
+
+###Chain of Thought Reasoning: 
+The player's win rate is high (0.8333333333333334), and they are on a winning streak (3 matches). This suggests that the player is skilled and can handle a challenging opponent. Therefore, I will choose a stronger opponent.
+
+The player has not faced the "special_move_type" agent before, and they have used special moves frequently (average_special_moves_per_match: 9.5). This indicates that the player is familiar with special moves and can handle an opponent that uses them frequently.
+
+Considering the player

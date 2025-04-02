@@ -1,0 +1,12 @@
+ first the reasoning, then the JSON object.
+</think>
+
+The player has a high win rate (83.33%) and a current win streak of 3, indicating they are performing well. Their feedback suggests they found the last opponent too simple, so I should choose a more challenging opponent. The last opponent was of aggressive type, so to vary the playstyle, I'll pick a defensive type. The player has faced Ryu twice and EHonda once, so I'll select Vega, a defensive type, to provide a new challenge. The corresponding model is of medium difficulty, which aligns with the player's current skill level.
+
+```json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```

@@ -1,0 +1,25 @@
+
+
+
+Player's win rate is very high, and this is 4th match, they are on a winning streak. This means we can choose a more challenging opponent. Player last opponent was an "aggressive_type" EHonda and is still on a winning streak, no need for a beginner-friendly agent.
+
+While we can choose an aggressive type agent, Player's recent feedback suggests they want a more challenging opponent; we should go with a projectile type, as the player is not skilled with it. Since they want a more challenging opponent, we should go with a high-difficulty model.
+
+Based on the archive, Projectile Type has one model with a difficulty score of 9/10, suitable for advanced players. This is a good fit. Now we need to choose a character from Projectile Type's suggested characters.
+
+The player has not faced all agents yet so we will select a projectile type agent with a different character than Vega, which the player has faced.
+
+Given the high difficulty of the previous match, it is a good choice to pick an agent with a new character to ensure a challenging but enjoyable match. Player's recent feedback suggests a preference for more difficult opponents, so a projectile type agent with a high difficulty score and a new character is the best option.
+
+Suggested Agent:
+chosen_agent_type: "projectile_type"
+chosen_agent_model_path: "agent_models/agents_archive/projectile_type/2_0.2"
+chosen_agent_character: "Ken"
+---
+
+###json
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Ken"
+}

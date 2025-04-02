@@ -1,0 +1,12 @@
+ reasoning followed by JSON.
+</think>
+
+The player has a high win rate of 83.33% and is on a 3-match winning streak. They recently faced an aggressive type opponent, EHonda, who was rated as hard difficulty. The player's feedback indicates that the last opponent was too simple, suggesting they prefer more challenging opponents. To maintain fun and challenge, selecting a strong but diverse opponent is ideal. The aggressive type offers a good balance, with suggested characters like EHonda, Ryu, and Ken. Given the player's preference for diversity, EHonda, a strong aggressive type, is a good choice to increase difficulty without overwhelming the player.
+
+```json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "EHonda"
+}
+```

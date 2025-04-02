@@ -1,0 +1,11 @@
+ JSON+Chain Of Thought reasonings.
+Chain of Thought Reasoning:
+The player has a high win rate (0.8333) and a current win streak of 3. They are skilled and have faced a variety of enemy types (projectile_type: 3, defensive_type: 1, air_type: 1, and aggressive_type: 1). Their feedback suggests they found the last match too simple.
+Given this information, I'll choose a challenging opponent with a similar playstyle, to provide a good balance of difficulty and enjoyment. The projectile_type is preferred for its versatility in gameplay.
+
+###json
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Ryu"
+}

@@ -1,0 +1,10 @@
+ Chain of Thought first, then JSON.
+Chain of Thought Reasoning:
+The player has a high win rate and is currently on a winning streak, indicating they are skilled and can handle a challenge. They have faced mostly projectile and aggressive types of opponents, so choosing a defensive type would offer a change in style. The player frequently uses special moves, suggesting they are not a beginner, thus avoiding the newbie type. The player recently faced EHonda, who is also considered an aggressive type. The player's feedback mentions the last match was too easy, which aligns with the chosen model being very easy. To balance this, selecting a model with medium difficulty would be appropriate. The suggested characters for the defensive type include Ryu, Ken, and Dhalsim. Given that Ryu has been used twice, Dhalsim is chosen to provide variety. The chosen model is "lstm_defense1", which is known for its strategic defensive gameplay.
+```json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/lstm_defense1",
+    "chosen_agent_character": "Dhalsim"
+}
+```

@@ -1,0 +1,13 @@
+ Chain of Thought Reasoning (Outside), and One JSON Object with Mandatory Fields (Inside)!
+
+
+# Chain of Thought Reasoning
+Following the principles for opponent selection, the player currently has a high win rate with an average score per match of 63/100 and an average of 9.5 special moves per match. They've recently won their last 3 matches using an aggressive opponent of type "EHonda" but did not find it challenging, even suggesting it was too simple. Therefore, we should pick a new opponent with a different play style to increase enjoyment. Given the feedback, it's clear they're looking for more challenging opponents. Considering their experience with aggressive and projectile opponents, we can choose a "projectile_type" agent. The most suitable model from the archive with projectile_type agent is "agent_models/agents_archive/projectile_type/2_0.2", which has a difficulty score of "6/10-(Medium)". Given their high win rate, a medium difficulty agent should be appropriate to match their current skills but still provide a challenge.
+
+# The Final JSON Object
+###json
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Ryu"
+}

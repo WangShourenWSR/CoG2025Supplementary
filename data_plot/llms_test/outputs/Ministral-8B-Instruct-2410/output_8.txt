@@ -1,0 +1,10 @@
+ JSON and Chain of Thought reasoning!
+### Chain of Thought Reasoning
+The player has a win rate of 83% and a 3 game win streak. They have faced 3 projectile-type agents, both on the character characters 'Ryu' and 'Balrog'. The player's feedback indicates that the last opponent was not challenging enough. Therefore, we should choose a stronger opponent with a variety of play styles not previously encountered. Considering a model that is not newbie-type, and choosing from a projectile type to keep it interesting, we should pick a moderate difficulty agent that doesn't repeat previous models or play styles. An agent model with a difficulty score of 6/10 could be beneficial, balancing difficulty while keeping the challenge level satisfactory. The 'Sagat' character might be a suitable choice as it is a projectile-type agent but is not one that the player has faced before.
+
+###json
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Sagat"
+}

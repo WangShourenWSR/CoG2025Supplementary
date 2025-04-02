@@ -1,0 +1,10 @@
+ Chain of Thought first, then JSON.
+Chain of Thought Reasoning:
+The player has a high win rate and is on a winning streak, indicating a skilled player. They have primarily faced aggressive and projectile-type opponents, so we should introduce a defensive or special move-type opponent for diversity. They used many special moves recently, suggesting they can handle advanced AI. They mentioned the last match was too easy, indicating they desire a challenge. Therefore, we should select an agent that provides a good challenge without overwhelming them. A special move-type opponent would be suitable as it offers a unique strategy and is challenging enough. The agent_models/special_move_type/1_0.25 model fits this criteria well.
+```json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Ryu"
+}
+```

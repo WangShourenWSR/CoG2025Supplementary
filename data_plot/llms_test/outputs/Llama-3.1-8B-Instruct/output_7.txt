@@ -1,0 +1,117 @@
+ Chain of Thought Reasoning + JSON object. 
+
+### Chain of Thought Reasoning:
+
+Based on the playing data, the player is on a winning streak with a high win rate of 0.8333. They have faced various agents, but their average special moves per match is relatively high at 9.5, indicating they are skilled. The player's feedback suggests they find the current match too simple. Considering these factors, I will choose an opponent that is challenging yet not overwhelming.
+
+The player has not faced the "special_move_type" before, so I will select an agent from this category. The suggested characters for this type are Ryu, Ken, Sagat, and Dhalsim. Given the player's high skill level, I will choose a character that is suitable for this type but not too easy.
+
+Looking at the Agent Archive, I see that the "special_move_type" has an agent model with a difficulty score of 9/10-(Hard). This should provide a suitable challenge for the player. The suggested characters for this type include Ryu, Ken, Sagat, and Dhalsim. I will choose Sagat as the opponent character.
+
+### JSON object:
+
+```json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}
+```
+
+
+The final answer is: 
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}  ### Chain of Thought Reasoning:
+
+Based on the playing data, the player is on a winning streak with a high win rate of 0.8333. They have faced various agents, but their average special moves per match is relatively high at 9.5, indicating they are skilled. The player's feedback suggests they find the current match too simple. Considering these factors, I will choose an opponent that is challenging yet not overwhelming.
+
+The player has not faced the "special_move_type" before, so I will select an agent from this category. The suggested characters for this type are Ryu, Ken, Sagat, and Dhalsim. Given the player's high skill level, I will choose a character that is suitable for this type but not too easy.
+
+Looking at the Agent Archive, I see that the "special_move_type" has an agent model with a difficulty score of 9/10-(Hard). This should provide a suitable challenge for the player. The suggested characters for this type include Ryu, Ken, Sagat, and Dhalsim. I will choose Sagat as the opponent character.
+
+### JSON object:
+
+```json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}
+```  The final answer is: 
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}  ### Chain of Thought Reasoning:
+
+Based on the playing data, the player is on a winning streak with a high win rate of 0.8333. They have faced various agents, but their average special moves per match is relatively high at 9.5, indicating they are skilled. The player's feedback suggests they find the current match too simple. Considering these factors, I will choose an opponent that is challenging yet not overwhelming.
+
+The player has not faced the "special_move_type" before, so I will select an agent from this category. The suggested characters for this type are Ryu, Ken, Sagat, and Dhalsim. Given the player's high skill level, I will choose a character that is suitable for this type but not too easy.
+
+Looking at the Agent Archive, I see that the "special_move_type" has an agent model with a difficulty score of 9/10-(Hard). This should provide a suitable challenge for the player. The suggested characters for this type include Ryu, Ken, Sagat, and Dhalsim. I will choose Sagat as the opponent character.
+
+### JSON object:
+
+```json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}
+```  The final answer is: 
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}  ### Chain of Thought Reasoning:
+
+Based on the playing data, the player is on a winning streak with a high win rate of 0.8333. They have faced various agents, but their average special moves per match is relatively high at 9.5, indicating they are skilled. The player's feedback suggests they find the current match too simple. Considering these factors, I will choose an opponent that is challenging yet not overwhelming.
+
+The player has not faced the "special_move_type" before, so I will select an agent from this category. The suggested characters for this type are Ryu, Ken, Sagat, and Dhalsim. Given the player's high skill level, I will choose a character that is suitable for this type but not too easy.
+
+Looking at the Agent Archive, I see that the "special_move_type" has an agent model with a difficulty score of 9/10-(Hard). This should provide a suitable challenge for the player. The suggested characters for this type include Ryu, Ken, Sagat, and Dhalsim. I will choose Sagat as the opponent character.
+
+### JSON object:
+
+```json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}
+```  The final answer is: 
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}  ### Chain of Thought Reasoning:
+
+Based on the playing data, the player is on a winning streak with a high win rate of 0.8333. They have faced various agents, but their average special moves per match is relatively high at 9.5, indicating they are skilled. The player's feedback suggests they find the current match too simple. Considering these factors, I will choose an opponent that is challenging yet not overwhelming.
+
+The player has not faced the "special_move_type" before, so I will select an agent from this category. The suggested characters for this type are Ryu, Ken, Sagat, and Dhalsim. Given the player's high skill level, I will choose a character that is suitable for this type but not too easy.
+
+Looking at the Agent Archive, I see that the "special_move_type" has an agent model with a difficulty score of 9/10-(Hard). This should provide a suitable challenge for the player. The suggested characters for this type include Ryu, Ken, Sagat, and Dhalsim. I will choose Sagat as the opponent character.
+
+### JSON object:
+
+```json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}
+```  The final answer is: 
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}  ### Chain of Thought Reasoning:
+
+Based on the playing data, the player is on a winning streak with a high win rate of 0.8333. They have faced various agents, but their average special moves per match is relatively high at 9.5, indicating they are skilled. The player's feedback suggests they find the current match too simple. Considering these factors, I will choose an opponent that is challenging yet not overwhelming.
+
+The player has not faced the "special_move_type" before, so I will select an agent from this category. The suggested characters for this type are Ryu, Ken, Sagat, and Dhalsim. Given the player's high skill level, I will choose a character that is suitable for this type but not too easy.
+
+Looking at the Agent Archive, I see that the "special_move_type" has an agent model with a difficulty score of 9/10-(Hard). This should provide a suitable challenge for the player. The suggested characters for this type include Ryu, Ken, Sagat, and Dhalsim.

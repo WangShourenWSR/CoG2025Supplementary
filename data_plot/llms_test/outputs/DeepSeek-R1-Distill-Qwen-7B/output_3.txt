@@ -1,0 +1,12 @@
+ JSON with the three fields and a preceding reasoning.
+</think>
+
+Chain of Thought Reasoning:  
+The player has a high win rate and is on a winning streak, suggesting they are skilled. They rarely use special moves, indicating they might be a beginner or prefer simpler gameplay. The last opponent was aggressive, which might have been too challenging. To balance, the AI should select a defensive or projectile type with a newbie model to provide a smoother challenge without overwhelming the player. The player's feedback suggests the last match was too simple, so avoiding similar types is key.
+
+###json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Vega"
+}

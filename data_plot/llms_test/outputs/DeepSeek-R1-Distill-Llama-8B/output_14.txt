@@ -1,0 +1,12 @@
+ chain of thought, then JSON.
+</think>
+
+The player has a high win rate of 0.833 and a 3-match win streak, indicating they are currently performing well. However, the player's feedback indicates that the last match was too simple, suggesting they might be looking for more challenging opponents to enhance their gameplay experience. The last opponent was of the aggressive type, so to provide diversity, the next opponent should be from a different type. The player has faced Ryu twice, Ken once, and EHonda once, so selecting Vega, a defensive type, would introduce a new character with distinct strategies. Vega is known for its defensive playstyle, which can challenge the player's offensive tactics. The model path for the defensive type is "agent_models/agents_archive/defensive_type/1_0.23" with a difficulty score of 8/10, which is appropriately challenging without being overwhelming. This selection aligns with the player's feedback and recent performance, balancing difficulty and diversity.
+
+```json
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```

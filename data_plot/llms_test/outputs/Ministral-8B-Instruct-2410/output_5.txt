@@ -1,0 +1,22 @@
+ Chain of Thought Reasoning, followed by the JSON object containing the required fields.
+
+## Chain of Thought Reasoning:
+The player has a high win rate (83%) and is currently on a winning streak of 3 matches.
+However, the last opponent was considered too simple according to the player's feedback.
+Therefore, I will select a more challenging opponent of the same type ("aggressive_type") but with different character and model.
+Considering the player used more than 9.5 special moves per match, they are comfortable with this game.
+
+The agent type "defensive_type" has the lowest diversity rating because the player faced many "aggressive_type" (1 time) and did not face other types at all.
+Meanwhile, "air_type" has the second lowest diversity rating because the player only faced this type once.
+
+Given the player's latest feedback, I will choose another "aggressive_type" opponent.
+Considering the player prefers tougher opponents based on the last match rating, let's choose the agent's model with a difficulty score of 8 out of 10.
+
+I will ensure the agent type is "aggressive_type" with the "Ryu" character and model path "agent_models/agents_archive/aggressive_type/1_0.22".
+
+### JSON
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Ryu"
+  }

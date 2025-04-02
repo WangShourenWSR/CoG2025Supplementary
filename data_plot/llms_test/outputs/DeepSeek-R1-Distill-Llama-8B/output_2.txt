@@ -1,0 +1,12 @@
+ reasoning first, then JSON.
+</think>
+
+The player has a high win rate and a winning streak, indicating they are performing well. To keep it challenging yet fun, the opponent should be of medium difficulty. The player has faced EHonda and Vega before, so a new type is needed. The aggressive type offers a good balance, with characters like Ryu, Ken, and Sagat. Among these, Sagat is a strong choice due to their projectile and aerial strengths, providing a varied challenge without overwhelming the player.
+
+```json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "Sagat"
+}
+```

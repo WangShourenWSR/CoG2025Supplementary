@@ -1,0 +1,8 @@
+ Chain of Thought reasoning and JSON object.
+```json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": agent_models/agents_archive/aggressive_type/2_0.31",
+  "chosen_agent_character": "EHonda"
+}
+```

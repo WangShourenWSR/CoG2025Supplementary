@@ -1,0 +1,16 @@
+ Chain of Thought Reasoning, and then the JSON output.
+
+### Chain of Thought Reasoning:
+The player is in a strong winning streak with a total win rate of 83%. They have faced a mix of characters and types but have a good balance between different playstyles. However, in their last match, they indicated the opponent was too simple, suggesting they want more challenge.
+
+They have already faced "projectile_type" agents three times. The feedback indicates a preference for more challenge. Their average per match and special moves suggest an intermediate skill level. Therefore, it is essential to choose a more challenging agent, preferably with a different strategy to keep the enjoyment high.
+
+Considering the above, an "aggressive_type" agent with Sagat seems suitable, as the player has faced him only once before. This type and character will provide more challenge and variety while addressing the player's feedback.
+Based on the provided conditions, the player desires a more challenging opponent.
+
+### JSON output:
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Sagat"
+}

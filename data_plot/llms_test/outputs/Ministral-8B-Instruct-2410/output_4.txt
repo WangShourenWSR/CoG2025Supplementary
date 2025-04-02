@@ -1,0 +1,19 @@
+ A Chain of Thought reasoning and following JSON object of the chosen agent type and the model path.
+```
+### Chain of Thought:
+
+The player has a high win rate (0.8333) and a winning streak of 3 matches in a row. Given these metrics, they seem to enjoy playing with challenging opponents. However, the player's feedback in the last match indicates they found the opponent too easy, suggesting they may prefer a more significant challenge. To keep the game interesting and enjoyable, I will select a more challenging model while still considering diversity and the player's preferences.
+
+The player has faced a variety of opponents in terms of types like 'projectile_type', 'special_move_type', 'defensive_type', and 'aggressive_type'. However, the last opponent was of the 'aggressive_type'. To maintain variation, we should select a different type of opponent. Between the remaining types ('defensive_type', 'air_type'), I will choose 'defensive_type' for variety.
+
+Within this type, the model suggested characters include "Ryu", "Ken", "Dhalsim", and "Sagat". The player has faced a mix of 'defensive_type' including "Ryu" (x1) and "Sagat" (x1), but not "Ken" or "Dhalsim" yet. Given they enjoyed varied challenges, we should offer a new character.
+
+Between the model suggestions, I should choose "Dhalsim" as it offers a unique playstyle of the character with projectile attacks and diverse abilities, which hasn't been explored before. Although it might be harder for a new user to master immediately, it will be fun for experimenting and improving skills.
+
+###json
+{
+    "chosen_agent_type": "defensive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+    "chosen_agent_character": "Dhalsim"
+}
+```

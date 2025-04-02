@@ -1,0 +1,100 @@
+ Chain of Thought reasoning and one JSON object.
+
+
+
+###Chain of Thought Reasoning
+Given the player's high win rate and current winning streak, I should choose a stronger opponent. However, the player's feedback indicates that the last match was too simple, suggesting they are looking for a more challenging opponent. Considering the player's average special moves per match is 9.5, they are likely skilled and can handle a more advanced AI. I will select an agent type that is likely to provide a good challenge while considering the player's feedback.
+
+The player has not faced many characters, so I will select an agent that has not been faced before to maintain diversity. The player's recent performance and feedback suggest they are looking for a more challenging opponent, so I will choose an agent with a higher difficulty score. The player's average score per match is 63/100, indicating they are performing well, so I will choose an agent that will provide a good challenge without being overwhelming.
+
+Considering the Agent Archive, I will select the "aggressive_type" as the chosen agent type. This type has a higher difficulty score and is likely to provide a good challenge for the player. The suggested characters for this type include Ryu, Ken, EHonda, Zangief, Balrog, Sagat, and Bison. However, the player has already faced EHonda, so I will select a different character from this list.
+
+###JSON Object
+```json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Zangief"
+}
+```
+
+
+
+###Chain of Thought Reasoning
+Given the player's high win rate and current winning streak, I should choose a stronger opponent. However, the player's feedback indicates that the last match was too simple, suggesting they are looking for a more challenging opponent. Considering the player's average special moves per match is 9.5, they are likely skilled and can handle a more advanced AI. I will select an agent type that is likely to provide a good challenge while considering the player's feedback.
+
+The player has not faced many characters, so I will select an agent that has not been faced before to maintain diversity. The player's recent performance and feedback suggest they are looking for a more challenging opponent, so I will choose an agent with a higher difficulty score. The player's average score per match is 63/100, indicating they are performing well, so I will choose an agent that will provide a good challenge without being overwhelming.
+
+Considering the Agent Archive, I will select the "aggressive_type" as the chosen agent type. This type has a higher difficulty score and is likely to provide a good challenge for the player. The suggested characters for this type include Ryu, Ken, EHonda, Zangief, Balrog, Sagat, and Bison. However, the player has already faced EHonda, so I will select a different character from this list.
+
+###JSON Object
+```json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Zangief"
+}
+```
+
+
+
+###Chain of Thought Reasoning
+Given the player's high win rate and current winning streak, I should choose a stronger opponent. However, the player's feedback indicates that the last match was too simple, suggesting they are looking for a more challenging opponent. Considering the player's average special moves per match is 9.5, they are likely skilled and can handle a more advanced AI. I will select an agent type that is likely to provide a good challenge while considering the player's feedback.
+
+The player has not faced many characters, so I will select an agent that has not been faced before to maintain diversity. The player's recent performance and feedback suggest they are looking for a more challenging opponent, so I will choose an agent with a higher difficulty score. The player's average score per match is 63/100, indicating they are performing well, so I will choose an agent that will provide a good challenge without being overwhelming.
+
+Considering the Agent Archive, I will select the "aggressive_type" as the chosen agent type. This type has a higher difficulty score and is likely to provide a good challenge for the player. The suggested characters for this type include Ryu, Ken, EHonda, Zangief, Balrog, Sagat, and Bison. However, the player has already faced EHonda, so I will select a different character from this list.
+
+###JSON Object
+```json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Zangief"
+}
+```
+
+
+
+###Chain of Thought Reasoning
+Given the player's high win rate and current winning streak, I should choose a stronger opponent. However, the player's feedback indicates that the last match was too simple, suggesting they are looking for a more challenging opponent. Considering the player's average special moves per match is 9.5, they are likely skilled and can handle a more advanced AI. I will select an agent type that is likely to provide a good challenge while considering the player's feedback.
+
+The player has not faced many characters, so I will select an agent that has not been faced before to maintain diversity. The player's recent performance and feedback suggest they are looking for a more challenging opponent, so I will choose an agent with a higher difficulty score. The player's average score per match is 63/100, indicating they are performing well, so I will choose an agent that will provide a good challenge without being overwhelming.
+
+Considering the Agent Archive, I will select the "aggressive_type" as the chosen agent type. This type has a higher difficulty score and is likely to provide a good challenge for the player. The suggested characters for this type include Ryu, Ken, EHonda, Zangief, Balrog, Sagat, and Bison. However, the player has already faced EHonda, so I will select a different character from this list.
+
+###JSON Object
+```json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Zangief"
+}
+```
+
+
+
+###Chain of Thought Reasoning
+Given the player's high win rate and current winning streak, I should choose a stronger opponent. However, the player's feedback indicates that the last match was too simple, suggesting they are looking for a more challenging opponent. Considering the player's average special moves per match is 9.5, they are likely skilled and can handle a more advanced AI. I will select an agent type that is likely to provide a good challenge while considering the player's feedback.
+
+The player has not faced many characters, so I will select an agent that has not been faced before to maintain diversity. The player's recent performance and feedback suggest they are looking for a more challenging opponent, so I will choose an agent with a higher difficulty score. The player's average score per match is 63/100, indicating they are performing well, so I will choose an agent that will provide a good challenge without being overwhelming.
+
+Considering the Agent Archive, I will select the "aggressive_type" as the chosen agent type. This type has a higher difficulty score and is likely to provide a good challenge for the player. The suggested characters for this type include Ryu, Ken, EHonda, Zangief, Balrog, Sagat, and Bison. However, the player has already faced EHonda, so I will select a different character from this list.
+
+###JSON Object
+```json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Zangief"
+}
+```
+
+
+
+###Chain of Thought Reasoning
+Given the player's high win rate and current winning streak, I should choose a stronger opponent. However, the player's feedback indicates that the last match was too simple, suggesting they are looking for a more challenging opponent. Considering the player's average special moves per match is 9.5, they are likely skilled and can handle a more advanced AI. I will select an agent type that is likely to provide a good challenge while considering the player's feedback.
+
+The player has not faced many characters, so I will select an agent that has not been faced before to maintain diversity. The player's recent performance and feedback suggest they are looking for a more challenging opponent, so I will choose an agent with a higher difficulty score. The player's average score per match is 63/100, indicating they are performing well, so I will choose an agent that will provide a good challenge without being overwhelming.
+
+Considering the Agent Archive, I will select the "aggressive_type" as the chosen agent type. This type has a higher difficulty score and is likely to provide a good challenge for the player. The suggested characters for this type include Ryu, Ken, EHonda, Zangief, Bal

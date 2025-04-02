@@ -1,0 +1,155 @@
+ 
+
+```
+{
+  "chosen_agent_type": "",
+  "chosen_agent_model_path": "",
+  "chosen_agent_character": ""
+}
+```
+
+### Chain of Thought Reasoning
+
+To choose the next opponent for the human player, I need to consider the player's recent performance, the difficulty level, and the diversity of opponents. The player has a high win rate of 83.33% and is on a winning streak of 3 matches. This suggests that they are currently performing well and can handle a more challenging opponent.
+
+The player has faced a variety of agents, but the most frequently faced types are projectile and special move types. To introduce some diversity, I will choose an opponent from a different type.
+
+The player's feedback indicates that the current match is too simple, which suggests that they are looking for a more challenging opponent. However, they have not explicitly requested a specific type or character.
+
+Based on the player's recent performance and feedback, I will choose an opponent from the defensive type, which is a more challenging type compared to projectile and special move types. The defensive type is also less frequently faced by the player, which will introduce some diversity.
+
+The suggested characters for the defensive type are Vega, Ryu, Ken, Dhalsim, and Sagat. Considering the player's current character is Ryu, I will choose a different character to provide some variety.
+
+The agent models for the defensive type have a difficulty score of 8/10, which is suitable for the player's current level of performance.
+
+Therefore, I will choose an opponent from the defensive type with a difficulty score of 8/10 and a suggested character of Vega.
+
+### JSON Object
+
+```
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```
+
+
+
+### Chain of Thought Reasoning
+
+To choose the next opponent for the human player, I need to consider the player's recent performance, the difficulty level, and the diversity of opponents. The player has a high win rate of 83.33% and is on a winning streak of 3 matches. This suggests that they are currently performing well and can handle a more challenging opponent.
+
+The player has faced a variety of agents, but the most frequently faced types are projectile and special move types. To introduce some diversity, I will choose an opponent from a different type.
+
+The player's feedback indicates that the current match is too simple, which suggests that they are looking for a more challenging opponent. However, they have not explicitly requested a specific type or character.
+
+Based on the player's recent performance and feedback, I will choose an opponent from the defensive type, which is a more challenging type compared to projectile and special move types. The defensive type is also less frequently faced by the player, which will introduce some diversity.
+
+The suggested characters for the defensive type are Vega, Ryu, Ken, Dhalsim, and Sagat. Considering the player's current character is Ryu, I will choose a different character to provide some variety.
+
+The agent models for the defensive type have a difficulty score of 8/10, which is suitable for the player's current level of performance.
+
+Therefore, I will choose an opponent from the defensive type with a difficulty score of 8/10 and a suggested character of Vega.
+
+### JSON Object
+
+```
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```
+
+
+
+### Chain of Thought Reasoning
+
+To choose the next opponent for the human player, I need to consider the player's recent performance, the difficulty level, and the diversity of opponents. The player has a high win rate of 83.33% and is on a winning streak of 3 matches. This suggests that they are currently performing well and can handle a more challenging opponent.
+
+The player has faced a variety of agents, but the most frequently faced types are projectile and special move types. To introduce some diversity, I will choose an opponent from a different type.
+
+The player's feedback indicates that the current match is too simple, which suggests that they are looking for a more challenging opponent. However, they have not explicitly requested a specific type or character.
+
+Based on the player's recent performance and feedback, I will choose an opponent from the defensive type, which is a more challenging type compared to projectile and special move types. The defensive type is also less frequently faced by the player, which will introduce some diversity.
+
+The suggested characters for the defensive type are Vega, Ryu, Ken, Dhalsim, and Sagat. Considering the player's current character is Ryu, I will choose a different character to provide some variety.
+
+The agent models for the defensive type have a difficulty score of 8/10, which is suitable for the player's current level of performance.
+
+Therefore, I will choose an opponent from the defensive type with a difficulty score of 8/10 and a suggested character of Vega.
+
+### JSON Object
+
+```
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```
+
+
+
+### Chain of Thought Reasoning
+
+To choose the next opponent for the human player, I need to consider the player's recent performance, the difficulty level, and the diversity of opponents. The player has a high win rate of 83.33% and is on a winning streak of 3 matches. This suggests that they are currently performing well and can handle a more challenging opponent.
+
+The player has faced a variety of agents, but the most frequently faced types are projectile and special move types. To introduce some diversity, I will choose an opponent from a different type.
+
+The player's feedback indicates that the current match is too simple, which suggests that they are looking for a more challenging opponent. However, they have not explicitly requested a specific type or character.
+
+Based on the player's recent performance and feedback, I will choose an opponent from the defensive type, which is a more challenging type compared to projectile and special move types. The defensive type is also less frequently faced by the player, which will introduce some diversity.
+
+The suggested characters for the defensive type are Vega, Ryu, Ken, Dhalsim, and Sagat. Considering the player's current character is Ryu, I will choose a different character to provide some variety.
+
+The agent models for the defensive type have a difficulty score of 8/10, which is suitable for the player's current level of performance.
+
+Therefore, I will choose an opponent from the defensive type with a difficulty score of 8/10 and a suggested character of Vega.
+
+### JSON Object
+
+```
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```
+
+
+
+### Chain of Thought Reasoning
+
+To choose the next opponent for the human player, I need to consider the player's recent performance, the difficulty level, and the diversity of opponents. The player has a high win rate of 83.33% and is on a winning streak of 3 matches. This suggests that they are currently performing well and can handle a more challenging opponent.
+
+The player has faced a variety of agents, but the most frequently faced types are projectile and special move types. To introduce some diversity, I will choose an opponent from a different type.
+
+The player's feedback indicates that the current match is too simple, which suggests that they are looking for a more challenging opponent. However, they have not explicitly requested a specific type or character.
+
+Based on the player's recent performance and feedback, I will choose an opponent from the defensive type, which is a more challenging type compared to projectile and special move types. The defensive type is also less frequently faced by the player, which will introduce some diversity.
+
+The suggested characters for the defensive type are Vega, Ryu, Ken, Dhalsim, and Sagat. Considering the player's current character is Ryu, I will choose a different character to provide some variety.
+
+The agent models for the defensive type have a difficulty score of 8/10, which is suitable for the player's current level of performance.
+
+Therefore, I will choose an opponent from the defensive type with a difficulty score of 8/10 and a suggested character of Vega.
+
+### JSON Object
+
+```
+{
+  "chosen_agent_type": "defensive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/defensive_type/1_0.23",
+  "chosen_agent_character": "Vega"
+}
+```
+
+
+
+### Chain of Thought Reasoning
+
+To choose the next opponent for the human player, I need to consider the player's recent performance, the difficulty level, and the diversity of opponents. The player has a high win rate of 83.33% and is on a winning streak of 3 matches. This suggests that they are currently performing well and can handle a more challenging opponent.
+
+The player has faced a variety of agents, but the most frequently

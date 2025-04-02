@@ -1,0 +1,49 @@
+ JSON.
+
+Okay, I need to help the Hyper Game-Playing Agent choose the next opponent for a human player in Street Fighter II. The guidelines are based on the player's recent performance, diversity of opponents, and other factors. Let me go through the steps.
+
+First, looking at the Playing Data Overview. The player has a win rate of 83.33%, which is very high, and they're on a 3-match winning streak. They've faced Ryu, Ken, Chunli, Guile, Blanka, Zangief, Dhalsim, Sagat, and Balrog. The last opponent was EHonda, an aggressive type. The player's feedback mentioned the enemy didn't perform any effective attack, which is a bit confusing.
+
+The Principles for Opponent Selection:
+
+a) Difficulty Adjustment: Since the player has a high win rate, they're likely skilled. So, the agent should be a bit stronger but still challenging. But the feedback says the enemy didn't perform well, so maybe the player found the last opponent too easy or the model wasn't effective.
+
+b) Opponent Diversity: They've faced almost all characters except maybe some. The last opponent was aggressive type, so next should be different. Maybe a defensive or air type.
+
+c) Player Behaviors: The player uses 9.5 special moves per match, which is very high. They must be advanced, so choosing a tough agent makes sense.
+
+d) Agent/Character Features: Avoid the same types. Last was aggressive, so maybe switch to defensive or air.
+
+e) Player's Feedback: The feedback says the match was too simple, enemy didn't attack effectively. Maybe the model was too weak or the character wasn't suitable.
+
+Looking at the Agent Archive:
+
+- projectile_type: models like Ryu, Ken, Sagat. Difficulty medium.
+- special_move_type: harder models like Ryu, Ken, Sagat. But the player uses a lot of specials, so maybe a harder model would be good.
+- newbie_type: very easy, but the player seems advanced.
+- defensive_type: models like Vega, difficulty hard.
+- aggressive_type: models like Ryu, EHonda. But last was EHonda, so avoid.
+- air_type: models like Ryu, Ken, Chunli. Difficulty easy.
+
+Considering the player is advanced, special_move_type models are better. But last opponent was aggressive, so maybe switch to another type.
+
+Looking at the suggested characters for special_move_type: Ryu, Ken, Sagat, Chunli. The difficulty is 9/10, which is hard. Since the player is advanced, this makes sense.
+
+But wait, the player's feedback said the enemy didn't perform, which might mean the model was too weak. Maybe the difficulty is too high? Or perhaps the character is not suitable.
+
+Alternatively, maybe a defensive type would offer a different challenge. But the player is on a winning streak, so maybe a harder special move type is better.
+
+The last opponent was aggressive, so next should be different. Special_move_type offers a different approach with combo and advanced techniques, which would be challenging.
+
+So, chosen type: special_move_type, character: Sagat. The model path is in the archive, and the difficulty is 9/10, which is hard, fitting the player's skill level.
+</think>
+
+Chain of Thought:  
+The player has a high win rate and recent success, suggesting they are skilled. They faced various opponents, including an aggressive type, but the feedback indicated the last match was too simple. To maintain challenge and diversity, a special_move_type agent with a hard difficulty would be appropriate, offering combo and advanced techniques without repeating the aggressive character.
+
+###json
+{
+    "chosen_agent_type": "special_move_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/special_move_type/1_0.25",
+    "chosen_agent_character": "Sagat"
+}

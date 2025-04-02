@@ -1,0 +1,12 @@
+ Chain of Thought followed by JSON.
+</think>
+
+The player has a high win rate of 83.33% and is on a 3-match winning streak, indicating they are performing well. Their average score is 63/100, which is decent but not exceptional. They've used 9.5 special moves per match, suggesting they have some skill but might not be using advanced techniques consistently. The player has faced a variety of opponents, including Ryu, Vega, Sagat, and EHonda, but has only faced EHonda once. The last opponent was EHonda, an aggressive type, who is a hard model. The player's feedback indicates they found the last match too simple, so the next opponent should be more challenging but not overwhelming. Considering the player's skill level and feedback, selecting a hard model but a different type would balance difficulty and provide new challenges. The aggressive type has suggested characters like EHonda, Ryu, and Sagat. EHonda was last, so Ryu or Sagat could be good choices. Ryu is a good fit as he's a projectile type and fits the aggressive category.
+
+```json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Ryu"
+}
+```

@@ -1,0 +1,14 @@
+ chain of thought, followed by a JSON object.
+</think>
+
+```json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}
+```
+
+**Chain of Thought Reasoning:**
+
+The player has a high win rate (0.8333) and is currently on a 3-match win streak, indicating they are performing well. The last opponent was of "aggressive_type" with "EHonda," which the player found too simple. To maintain challenge and diversity, selecting another "aggressive_type" opponent makes sense. "EHonda" is a good fit as it offers varied strategies without overwhelming the player, keeping the difficulty balanced.

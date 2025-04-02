@@ -1,0 +1,10 @@
+ Chain of Thought first, then a JSON object.
+Chain of Thought Reasoning:
+The player has a high win rate (83%) and is currently on a winning streak of 3 matches, indicating they are skilled and experienced. They have used special moves frequently (9.5 per match), suggesting they are comfortable with advanced techniques. The last opponent was an aggressive type character (EHonda), which they found too easy. To keep the game enjoyable, we need to challenge the player while maintaining their interest. Given their preference for variety and their current skill level, selecting a new and distinct type would be ideal. The player has not faced many projectile types, and Sagat is known for his powerful projectiles and mix-up options, making him a good choice for a challenge. Additionally, the model path "agent_models/agents_archive/projectile_type/2_0.2" offers a balanced difficulty level, ensuring the player stays engaged without feeling overwhelmed.
+```json
+{
+    "chosen_agent_type": "projectile_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/projectile_type/2_0.2",
+    "chosen_agent_character": "Sagat"
+}
+```

@@ -1,0 +1,24 @@
+ JSON with the three fields.
+</think>
+
+Chain of Thought Reasoning:
+
+1. The player has a high win rate (83.33%) and is on a winning streak (3 consecutive wins). This indicates they are performing well and are likely looking for a challenge to continue their success.
+2. The player's recent performance suggests they are comfortable with advanced techniques, as they have used special moves 9.5 times per match on average. This supports selecting an opponent that can provide a meaningful challenge without overwhelming them with simplicity.
+3. The player's feedback indicates they found the previous match too simple, with the enemy not performing effective attacks. This suggests the last opponent was either too easy or not challenging enough, so the new opponent should offer a better balance.
+4. Diversity of opponents is important. The player has faced Ryu, Ken, Sagat, Guile, Balrog, Zangief, and Vega. They have only faced Ken in special moves and Ryu, Ken, Sagat, and EHonda in projectile types. The last opponent was EHonda, an aggressive type.
+5. The player's feedback about the previous match being too simple suggests they prefer opponents that are neither too easy nor too hard. They enjoy a challenge that is still manageable.
+6. The player's high win rate and recent streak indicate they are looking for a harder opponent to continue their success. Selecting a new opponent that is challenging but still winnable aligns with this preference.
+7. The player's average score per match is 63/100, which is below average, suggesting they may prefer opponents that are slightly above their current level to improve.
+8. The player's character is Ryu, who is a defensive and special move type. Selecting an opponent of a different type (e.g., projectile or aggressive) can provide new experiences and maintain variety in their matches.
+9. The player's suggested feedback indicates they prefer opponents that are not too easy. Selecting an opponent with a difficulty score around 8/10 would balance their current performance.
+10. The player has faced all available agents in some types, so rotating to a new type is necessary for diversity. The aggressive_type seems appropriate given their high win rate and the feedback about the previous match.
+
+Based on these considerations, the opponent should be an aggressive type with a difficulty score around 8/10, providing a challenge without being overwhelming. The suggested agent is EHonda, which fits the aggressive type and has a difficulty score of 8/10.
+
+###json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+    "chosen_agent_character": "EHonda"
+}

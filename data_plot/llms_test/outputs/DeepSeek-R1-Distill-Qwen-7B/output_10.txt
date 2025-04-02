@@ -1,0 +1,14 @@
+ the Chain of Thought reasoning and the JSON object.
+</think>
+
+Chain of Thought:
+
+The player's win rate is 83.33%, indicating high skill. They have a recent win streak of 3 and have faced Ryu, Ken, Sagat, and Dhalsim. The last opponent was aggressive, using EHonda, which the player found too simple. The player rarely uses special moves, suggesting they might benefit from a newbie or defensive type. To balance difficulty and diversity, selecting an aggressive type with a new character would challenge them without overwhelming them. The suggested character for aggressive type is Ryu, Ken, EHonda, Zangief, Balrog, Sagat, or Bison. EHonda is already used, so choosing Ryu would provide a fresh experience.
+
+```json
+{
+    "chosen_agent_type": "aggressive_type",
+    "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/2_0.21",
+    "chosen_agent_character": "Ryu"
+}
+```

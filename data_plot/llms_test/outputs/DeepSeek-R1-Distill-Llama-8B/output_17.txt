@@ -1,0 +1,12 @@
+ Chain of Thought followed by the JSON.
+</think>
+
+The player has a high win rate (0.833) and is currently on a 3-match win streak. Their feedback indicates they found the last match too simple, suggesting they are looking for more challenging opponents. The last opponent was of the aggressive type, so to provide variety, the next opponent should be from a different category. The player has faced Ryu twice, Vega twice, Sagat once, and EHonda once. To increase difficulty and diversity, the aggressive type is a good choice. The agent model for aggressive type is rated 8/10 (Hard), which fits the player's skill level. Ryu is suggested for aggressive type, making him a challenging yet familiar opponent.
+
+```json
+{
+  "chosen_agent_type": "aggressive_type",
+  "chosen_agent_model_path": "agent_models/agents_archive/aggressive_type/1_0.22",
+  "chosen_agent_character": "Ryu"
+}
+```
